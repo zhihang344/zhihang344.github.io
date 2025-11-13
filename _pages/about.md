@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 About 
 ==============
 
-I am currently a Undergraduate Student at Southern University of Science and Technology, where I was advised by Prof. [Guanhua Chen](https://ghchen.me/) and [Quanyin Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=2&lang=en). Now I'm studying at University of California, San Diego as a visiting student for 1 quarter. 
+I am currently a 3rd-year Data Science major Undergraduate Student at Southern University of Science and Technology, where I was advised by Prof. [Guanhua Chen](https://ghchen.me/) and [Quanyin Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=2&lang=en). Now I'm studying at University of California, San Diego as a visiting student for 1 quarter. 
 
 My current research interests lie in Machine Learning, Natural Language Processing. 
 

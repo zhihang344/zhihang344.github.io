@@ -19,12 +19,12 @@ Work experience
 * Fall 2025: Multi-Agent AI Smart Sports Analysis Platform for Middle and Long-Distance Running
   * Southern University of Science and Technology
   * Duties includes: Algorithm and Marketing
-  * Supervisor: Peng Yang, Lunhong Dong
+  * Supervisor: [Peng Yang](https://cse.sustech.edu.cn/faculty/~yangp/), [Lunhong Dong](https://www.sustech.edu.cn/zh/faculties/donglunhong.html)
 
 * Fall 2024: Sensor-Based Tennis Movement Evaluation System
   * Southern University of Science and Technology
   * Duties includes: Data Collection and Analysis
-  * Supervisor: Jin Zhang, Bo Bai
+  * Supervisor: [Jin Zhang](https://faculty.sustech.edu.cn/?tagid=zhangj4&iscss=1&snapid=1&orderby=date&go=2), [Bo Bai](https://www.sustech.edu.cn/zh/faculties/english-bai_bo.html)
 
   
 Skills
