@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhihang Shao's Homepage"
+title                    : "Zhihang Shao"
 title_separator          : "-"
 name                     : &name "Zhihang Shao"
 description              : &description "B.S. Student, Data Science, SUSTech"
